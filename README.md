@@ -4,4 +4,4 @@
 <br /> Password: WobbyChip
 <br />
 <br /> Ultimate MBR Image Builder
-<br /> Creator: Nashmare
+<br /> Creator: Nasmare
